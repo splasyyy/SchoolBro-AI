@@ -61,7 +61,7 @@ To run **SchoolBro AI**, you need the following:
    pip install openai
 
 3. **Set up OpenAI API Key:**:  
-   You need to set your OpenAI API key. If you don’t have an API key yet, you can get it from OpenAI. Once you have it, place it in the api_key variable in the script or configure it via environment variables.
+   You need to set your OpenAI API key. If you don’t have an API key yet, you can get it from OpenAI. Once you have it, place it in the api_key variable in the script(line 5) or configure it via environment variables.
 
 4. **Run SchoolBro:**:  
 In your terminal, navigate to the project directory and run:
