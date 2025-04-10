@@ -42,7 +42,6 @@ def answer_question(question):
     prompt = f"Answer this question: {question}"
     return get_openai_response(prompt)
 
-# Main function
 def main():
     print("Welcome to the AI Assistant!")
     print("You can ask me questions, get motivational messages, or translate text. Type 'exit' to stop.")
